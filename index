@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>수미의 홈</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding-top: 50px; background-color: #f9f9f9; }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>안녕 나는 수미야</h1>
+    <p>나의 첫 번째 웹사이트에 온 걸 환영해!</p>
+    
+    <a href="hello.html" class="btn">Hello 페이지로 가기</a>
+</body>
+</html>
